@@ -1,6 +1,6 @@
 package com.hrithikvish.springbootquizapp.service;
 
-import com.hrithikvish.springbootquizapp.Question;
+import com.hrithikvish.springbootquizapp.model.Question;
 import com.hrithikvish.springbootquizapp.dao.QuestionDAO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

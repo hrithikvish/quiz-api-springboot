@@ -1,4 +1,4 @@
-package com.hrithikvish.springbootquizapp;
+package com.hrithikvish.springbootquizapp.model;
 
 import jakarta.persistence.*;
 
